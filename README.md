@@ -13,4 +13,6 @@ I am specialized in security issues, so if you vote for a card called "_Detect S
 
 Do not hesitate to reach out to my team or me by posting in our [Community Forum](https://community.sonarsource.com/). If the post is about security analysis capabilities, I might be the one to respond 😱
 
+And if you specifically want to talk to me, open a Pull Request in the [loris-s-sonarsource/loris-s-sonarsource](https://github.com/loris-s-sonarsource/loris-s-sonarsource/pulls) repository 😉
+
 Cheers!
